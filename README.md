@@ -7,3 +7,7 @@ PhoenixRhythmGame es un juego de ritmo construido en Unity, creado como mi proye
 • Modo Difícil: Además de las flechas, también se utiliza la tecla de espacio para desafiar tus habilidades a una velocidad más rápida.
 
 ¡Prepárate para una experiencia musical y de destreza única! :) ♡
+
+![Captura de pantalla del juego](screenshot1.png)
+
+![Captura de pantalla del juego](screenshot2.png)
